@@ -58,11 +58,11 @@
 
 截取HardDisk主类里有关amount的片段，用到了if判断句和this关键字，最后并输出出来
 
-private int amount;
+    private int amount;
 
-int getAmount(){
+    int getAmount(){
 	
-  return amount;
+	return amount;
 	
   }
   
