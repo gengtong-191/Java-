@@ -82,8 +82,8 @@
       
 ##五.运行结果
 
-![结果](https://github.com/gengtong-191/Java-/blob/main/af8488e57b9d65f0413d4f6bf675b6b.png)
+![outcome](https://github.com/gengtong-191/Java-/blob/main/af8488e57b9d65f0413d4f6bf675b6b.png)
 
 ##六.实验感想
 
-
+学会了private的用法，private是限制级别最高的，只能在自己的类里面使用；用get方法获取变量的值，再用if语句进行运算；disk.setAmount进行赋值；关联词this与对象关联，用于指示当前对象；运用system.out.println()等基础代码，在和同学的讨论后中解决了不确定的部分；基本了解了java的基础代码，以后能更加深入的学习java这门语言。
